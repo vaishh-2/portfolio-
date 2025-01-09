@@ -39,12 +39,6 @@ Check out the live demo of my portfolio [here](#).
    ```
 3. Open `index.html` in your browser to view the portfolio.
 
-## 📬 Contact Me
-Feel free to reach out via:
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Vaishnavi Dornala](https://www.linkedin.com/in/vaishnavi-dornala-570002334/)
-- **Twitter:** [@vaishhh_2](https://x.com/vaishhh_2)
-
 ## 📝 License
 This project is licensed under the [MIT License](LICENSE).
 
