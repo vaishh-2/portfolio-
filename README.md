@@ -22,9 +22,7 @@ This is a fully responsive portfolio showcasing my skills, projects, and achieve
 ```plaintext
 portfolio/
 ├── index.html          # Main HTML file
-├── styles.css          # Custom CSS file for styling
 ├── images/             # Folder for images used in the website
-├── scripts.js          # JavaScript for interactivity (optional)
 ```
 
 ## 🚀 Live Demo
